@@ -48,3 +48,5 @@ require (
 replace google.golang.org/grpc => google.golang.org/grpc v1.33.2
 
 replace github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
+
+replace github.com/cosmos/ibc-go => github.com/nguyenvuong1122000/ibc-go v1.1.5-fix
